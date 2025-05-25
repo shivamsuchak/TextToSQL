@@ -55,6 +55,4 @@ cursor.close()
 conn.close()
 ```
 
-## License
 
-MIT
