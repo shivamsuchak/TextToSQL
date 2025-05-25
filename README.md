@@ -55,4 +55,8 @@ cursor.close()
 conn.close()
 ```
 
+## Project Information
+
+This project was developed by TEAM 5 for the course IE686 Large Language Models and Agents at the University of Mannheim.
+
 
